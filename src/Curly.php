@@ -60,7 +60,7 @@ class Curly
     }
 
     /**
-     * Or you may set array data
+     * Set array data
      * @param string $json json data to execute
      */
     public function setArray($array)
